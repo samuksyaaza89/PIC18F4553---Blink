@@ -1,0 +1,5 @@
+*.c      linguist-language=C
+*.h      linguist-language=C
+*.as     linguist-generated=true
+*.lst    linguist-generated=true
+*.p1     linguist-generated=true
